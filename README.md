@@ -1,6 +1,5 @@
 
 <img src="image.png" alt="">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAAOUAFIFATIHA&show_icons=true&theme=transparent)
 - 👋 Hi, I’m Fatiha LAAOUAFI <br>
 - 👀 I’m interested in Web developement , programmation  <br>
 - 🌱 I’m currently learning Flutter Framework<br>
