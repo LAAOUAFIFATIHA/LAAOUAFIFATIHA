@@ -7,10 +7,10 @@
 - [Project 1](https://github.com/LAAOUAFIFATIHA/project1) - A brief description of the project.
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Python, c , dart .
-- **Frameworks:** Flutter <img src="9055802_bxl_flutter_icon.png" style="wiedth:35px; height:20px"></img> , Flask .
-- **Databases:** MySQL , Firebase , PHPMyAdmin .
-- **Tools:** Git , Android , Visual Stodio Code
+- **Languages:** Python  <img src="python.png" style="wiedth:35px; height:20px"></img>, c , dart .
+- **Frameworks:** Flutter <img src="9055802_bxl_flutter_icon.png" style="wiedth:35px; height:20px"></img> , Flask <img src="flask.png" style="wiedth:35px; height:20px"></img> .
+- **Databases:** MySQL  , Firebase , PHPMyAdmin <img src="myPhp.png" style="wiedth:35px; height:20px"></img> .
+- **Tools:** Git , Android <img src="Android.png" style="wiedth:35px; height:20px"></img> , Visual Stodio Code
 
 
 ### 🌱 What I'm Learning
