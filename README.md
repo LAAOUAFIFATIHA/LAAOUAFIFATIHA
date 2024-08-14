@@ -8,14 +8,9 @@
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, c , dart .
-- **Frameworks:** Flutter , Flask .
-- **Databases:** MySQL, Firebase , PHPMyAdmin .
+- **Frameworks:** Flutter <img src="image.png" style="wiedth:25px; height:15px"></img> , Flask .
+- **Databases:** MySQL , Firebase , PHPMyAdmin .
 - **Tools:** Git , Android , Visual Stodio Code
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
-  <path fill-rule="evenodd" d="M8 .293l6 6V15a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6.293l6-6zm5 6.707V14H3V7l5-5 5 5zM7 10v4h2v-4H7z"/>
-</svg> Home
-![Home Icon](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/svgs/solid/home.svg) Home
-
 
 
 ### 🌱 What I'm Learning
