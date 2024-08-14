@@ -1,7 +1,7 @@
 # Hi there, I'm Fatiha LAAOUAFI 👋
 
 ### 🌐 Find Me Around the Web
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/)](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/))
 - **Twitter:** [Your Twitter Profile](https://twitter.com/your-profile)
 - **Portfolio:** [Your Portfolio](https://your-portfolio.com)
 
