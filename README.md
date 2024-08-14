@@ -1,5 +1,5 @@
 # Hi there, I'm Fatiha LAAOUAFI 👋
-
+<img src="image.png"></img>
 ### 🌐 Find Me Around the Web
 - **LinkedIn:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/))
 - **Twitter:** [Your Twitter Profile](https://twitter.com/your-profile)
