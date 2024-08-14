@@ -2,6 +2,9 @@
 <img src="image.png"></img>
 ### 🌐 Find Me Around the Web
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
+- **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
+
 
 ###  What I'm Currently Working On
 - [Project 1](https://github.com/LAAOUAFIFATIHA/project1) 
