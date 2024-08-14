@@ -2,19 +2,17 @@
 <img src="image.png"></img>
 ### 🌐 Find Me Around the Web
 - **LinkedIn:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/))
-- **Twitter:** [Your Twitter Profile](https://twitter.com/your-profile)
-- **Portfolio:** [Your Portfolio](https://your-portfolio.com)
 
 ### 🔭 What I'm Currently Working On
-- [Project 1](https://github.com/your-username/project1) - A brief description of the project.
-- [Project 2](https://github.com/your-username/project2) - A brief description of the project.
-- [Project 3](https://github.com/your-username/project3) - A brief description of the project.
+- [Project 1](https://github.com/LAAOUAFIFATIHA/project1) - A brief description of the project.
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, [Other Languages]
-- **Frameworks:** Flutter, Django, [Other Frameworks]
-- **Databases:** MySQL, Firebase, [Other Databases]
-- **Tools:** Git, Docker, [Other Tools]
+- **Languages:** Python, c , dart .
+- **Frameworks:** Flutter , Flask .
+- **Databases:** MySQL, Firebase , PHPMyAdmin .
+- **Tools:** Git , Android , Visual Stodio Code
+- <i class="fas fa-home"></i> Home
+<i class="fas fa-envelope"></i> Contact
 
 ### 🌱 What I'm Learning
 - Flutter & Firebase
