@@ -1,5 +1,6 @@
 
 <img src="image.png" alt="">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m Fatiha LAAOUAFI <br>
 - 👀 I’m interested in Web developement , programmation  <br>
 - 🌱 I’m currently learning Flutter Framework<br>
