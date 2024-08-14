@@ -8,7 +8,7 @@
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, c , dart .
-- **Frameworks:** Flutter <img src="image.png" style="wiedth:25px; height:15px"></img> , Flask .
+- **Frameworks:** Flutter <img src="9055802_bxl_flutter_icon.png" style="wiedth:25px; height:15px"></img> , Flask .
 - **Databases:** MySQL , Firebase , PHPMyAdmin .
 - **Tools:** Git , Android , Visual Stodio Code
 
