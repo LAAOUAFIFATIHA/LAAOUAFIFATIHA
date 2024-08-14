@@ -1,10 +1,10 @@
 # Hi there, I'm Fatiha LAAOUAFI 👋
 <img src="image.png"></img>
 ### 🌐 Find Me Around the Web
-- **LinkedIn:** ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/))
+- **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
 
 ###  What I'm Currently Working On
-- [Project 1](https://github.com/LAAOUAFIFATIHA/project1) - A brief description of the project.
+- [Project 1](https://github.com/LAAOUAFIFATIHA/project1) 
 
 ###  Technologies & Tools
 - **Languages:** Python  <img src="python.png" style="wiedth:40px; height:26px"></img>, c <img src="C.png" style="wiedth:40px; height:26px"></img> , dart <img src="dart.png" style="wiedth:40px; height:26px"></img>.
