@@ -7,10 +7,10 @@
 - [Project 1](https://github.com/LAAOUAFIFATIHA/project1) - A brief description of the project.
 
 ###  Technologies & Tools
-- **Languages:** Python  <img src="python.png" style="wiedth:40px; height:26px"></img>, c , dart .
+- **Languages:** Python  <img src="python.png" style="wiedth:40px; height:26px"></img>, c <img src="C.png" style="wiedth:40px; height:26px"></img> , dart <img src="dart.png" style="wiedth:40px; height:26px"></img>.
 - **Frameworks:** Flutter <img src="9055802_bxl_flutter_icon.png" style="wiedth:40px; height:26px"></img> , Flask <img src="flask.png" style="wiedth:40px; height:26px"></img> .
-- **Databases:** MySQL  , Firebase , PHPMyAdmin <img src="myPhp.png" style="wiedth:40px; height:26px"></img> .
-- **Tools:** Git , Android <img src="Android.png" style="wiedth:40px; height:26px"></img> , Visual Stodio Code
+- **Databases:** MySQL <img src="mysql.png" style="wiedth:40px; height:26px"></img> , Firebase <img src="firebase.png" style="wiedth:40px; height:26px"></img>, PHPMyAdmin <img src="myPhp.png" style="wiedth:40px; height:26px"></img> .
+- **Tools:** Git , Android <img src="Android.png" style="wiedth:40px; height:26px"></img> , Visual Stodio Code <img src="Visual.png" style="wiedth:40px; height:26px"></img>
 
 
 ###  What I'm Learning
