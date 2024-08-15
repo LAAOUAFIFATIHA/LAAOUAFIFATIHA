@@ -6,9 +6,6 @@
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
 
 
-###  What I'm Currently Working On
-- <a href="https://github.com/LAAOUAFIFATIHA/project1">Project1</a>
-
 ###  Technologies & Tools
   <img src="python.png" style="wiedth:100px; height:100px"></img> <img src="C1.png" style="wiedth:100px; height:100px"></img>  <img src="dart.png" style="wiedth:100px; height:100px"></img>
   <img src="9055802_bxl_flutter_icon.png" style="wiedth:100px; height:100px"></img> <img src="flask.png" style="wiedth:100px; height:100px"></img> 
@@ -23,6 +20,7 @@
 
 ### 🚀 My Projects
 - **[Weather Forecasting App]((https://github.com/LAAOUAFIFATIHA/weatherForcast))
+- - <a href="https://github.com/LAAOUAFIFATIHA/project1">Project1</a>
 
 
 ### 📫 How to Reach Me
