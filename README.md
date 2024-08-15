@@ -10,10 +10,10 @@
 - [Project 1](https://github.com/LAAOUAFIFATIHA/project1) 
 
 ###  Technologies & Tools
-  <img src="python.png" style="wiedth:50px; height:45px"></img>, <img src="C.png" style="wiedth:50px; height:45px"></img> , <img src="dart.png" style="wiedth:50px; height:45px"></img>.
+  <img src="python.png" style="wiedth:70px; height:65px"></img>, <img src="C.png" style="wiedth:70px; height:65px"></img> , <img src="dart.png" style="wiedth:70px; height:65px"></img>.
   <img src="9055802_bxl_flutter_icon.png" style="wiedth:50px; height:45px"></img> ,<img src="flask.png" style="wiedth:50px; height:45px"></img> .
- <img src="mysql.png" style="wiedth:50px; height:45px"></img> , <img src="firabase.png" style="wiedth:50px; height:4px"></img>,  <img src="myPhp.png" style="wiedth:50px; height:45px"></img> .
- Git , <img src="Android.png" ></img> , <img src="Visual.png" style="wiedth:40px; height:26px"></img> .
+ <img src="mysql.png" style="wiedth:70px; height:65px"></img> , <img src="firabase.png" style="wiedth:70px; height:65px"></img>,  <img src="myPhp.png" style="wiedth:70px; height:65px"></img> .
+ Git , <img src="Android.png" style="wiedth:70px; height:65px" ></img> , <img src="Visual.png" style="wiedth:70px; height:65px"></img> .
 
 
 ###  What I'm Learning
