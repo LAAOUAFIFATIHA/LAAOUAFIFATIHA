@@ -10,7 +10,7 @@
 - [Project 1](https://github.com/LAAOUAFIFATIHA/project1) 
 
 ###  Technologies & Tools
-  <img src="python.png" style="wiedth:100px; height:100px"></img> <img src="C.png" style="wiedth:100px; height:100px"></img>  <img src="dart.png" style="wiedth:100px; height:100px"></img>
+  <img src="python.png" style="wiedth:100px; height:100px"></img> <img src="C1.png" style="wiedth:100px; height:100px"></img>  <img src="dart.png" style="wiedth:100px; height:100px"></img>
   <img src="9055802_bxl_flutter_icon.png" style="wiedth:100px; height:100px"></img> <img src="flask.png" style="wiedth:100px; height:100px"></img> 
  <img src="mysql.png" style="wiedth:100px; height:100px"></img>  <img src="firabase.png" style="wiedth:100px; height:100px"></img>  <img src="myPhp.png" style="wiedth:100px; height:100px"></img> 
 </img>  <img src="Android.png" style="wiedth:100px; height:100px" ></img>  <img src="Visual.png" style="wiedth:100px; height:100px"></img> 
