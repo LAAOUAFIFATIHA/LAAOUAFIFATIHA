@@ -7,7 +7,7 @@
 
 
 ###  What I'm Currently Working On
-- [Project 1](https://github.com/LAAOUAFIFATIHA/project1) 
+- <a href="https://github.com/LAAOUAFIFATIHA/project1">Project1</a>
 
 ###  Technologies & Tools
   <img src="python.png" style="wiedth:100px; height:100px"></img> <img src="C1.png" style="wiedth:100px; height:100px"></img>  <img src="dart.png" style="wiedth:100px; height:100px"></img>
