@@ -19,8 +19,8 @@
 
 
 ### 🚀 My Projects
-- **[Weather Forecasting App]((https://github.com/LAAOUAFIFATIHA/weatherForcast))
-- - <a href="https://github.com/LAAOUAFIFATIHA/weatherForcast">Project1</a>
+-  <a href="https://github.com/LAAOUAFIFATIHA/weatherForcast">weatherForcast</a>
+-  <a href="https://github.com/LAAOUAFIFATIHA/first_flutter_app">first_flutter_app</a>
 
 
 ### 📫 How to Reach Me
