@@ -1,4 +1,4 @@
-# Hi there, I'm Fatiha LAAOUAFI 👋
+# Hi there, I'm Fatiha LAAOUAFI 👋 I am a data scientist .
 <img src="image.png"></img>
 ### 🌐 Find Me Around the Web
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
