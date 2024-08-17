@@ -15,6 +15,7 @@
 
 ###  What I'm Learning
 - Flutter & Firebase
+- Python .
 - Machine Learning
 
 
