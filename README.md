@@ -7,6 +7,7 @@
 
 
 ###  Technologies & Tools
+  <img src="HTML.png" style="wiedth:100px; height:100px"></img> <img src="CSS.png" style="wiedth:100px; height:100px"></img> <img src="bootstrap.png" style="wiedth:100px; height:100px"></img>
   <img src="python.png" style="wiedth:100px; height:100px"></img> <img src="C1.png" style="wiedth:100px; height:100px"></img>  <img src="dart.png" style="wiedth:100px; height:100px"></img>
   <img src="9055802_bxl_flutter_icon.png" style="wiedth:100px; height:100px"></img> <img src="flask.png" style="wiedth:100px; height:100px"></img> 
  <img src="mysql.png" style="wiedth:100px; height:100px"></img>  <img src="firabase.png" style="wiedth:100px; height:100px"></img>  <img src="myPhp.png" style="wiedth:100px; height:100px"></img> 
