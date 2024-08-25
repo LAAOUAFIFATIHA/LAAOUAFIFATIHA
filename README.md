@@ -12,11 +12,10 @@
  <img src="mysql.png" style="wiedth:100px; height:100px"></img>  <img src="firabase.png" style="wiedth:100px; height:100px"></img>  <img src="myPhp.png" style="wiedth:100px; height:100px"></img> 
 </img>  <img src="Android.png" style="wiedth:100px; height:100px" ></img>  <img src="Visual.png" style="wiedth:100px; height:100px"></img> <img src="figma.png" style="wiedth:100px; height:100px"></img> 
 
-## 🔧 What I Can Do ?
+###  Technologies & Tools
 <div align="center">
 	<table>
 		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></td>
       <td><img width="50" src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" alt="Django" title="Django"/></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
