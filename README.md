@@ -5,7 +5,6 @@
 - **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
 
-
 ###  Technologies & Tools
   <img src="HTML.png" style="wiedth:90px; height:90px"></img> <img src="CSS.png" style="wiedth:100px; height:100px"></img> <img src="bootstrap.png" style="wiedth:80px; height:100px"></img>
   <img src="python.png" style="wiedth:100px; height:100px"></img> <img src="C1.png" style="wiedth:100px; height:100px"></img>  <img src="dart.png" style="wiedth:100px; height:100px"></img>
@@ -26,20 +25,15 @@
 -  <a href="https://github.com/LAAOUAFIFATIHA/flutter_PickSchool_app">flutter_PickSchool_app</a>
 
 
-### 📫 How to Reach Me
-- **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
-
-### 🎯 Fun Facts
-- I love reading and drawing in my free time.
-- Passionate about technology, AI, and data science.
-
-
-
-
 ## 📈 GitHub Stats
 <div align="center">
 <img alt="LAAOUAFIFATIHA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LAAOUAFIFATIHA&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAAOUAFIFATIHA&layout=compact&&langs_count=8"/>
 </div>
+
+
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/LAAOUAFIFATIHA)
+
+
 
