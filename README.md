@@ -27,7 +27,7 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
 			<td><code><img width="50" src="flask.png" alt="flask" title="flask"/></code></td>
 			<td><code><img width="50" src="firabase.png" alt="firabase" title="firabase"/></code></td>
-			<td><code><img width="50" src="	sql.jpg" alt="sql" title="sql"/></code></td>
+			<td><code><img width="50" src="sql.jpg" alt="sql" title="sql"/></code></td>
 			<td><code><img width="50" src="Android.png" alt="Android" title="Android"/></code></td>
 		</tr>
 		<tr>
