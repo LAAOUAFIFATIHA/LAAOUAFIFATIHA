@@ -11,8 +11,8 @@
 - Python .
 - Machine Learning
 
+###  Technologies & Tools
 
-## 🔧 What I Can Do ?
 <div align="center">
 	<table>
 		<tr>
