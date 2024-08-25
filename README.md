@@ -25,10 +25,6 @@
 -  <a href="https://github.com/LAAOUAFIFATIHA/first_flutter_app">first_flutter_app</a>
 -  <a href="https://github.com/LAAOUAFIFATIHA/flutter_PickSchool_app">flutter_PickSchool_app</a>
 
-## 📈 GitHub Stats
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=bouslama-hamza&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="bouslama-hamza" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouslama-hamza&layout=compact&theme=radical&hide_border=true" alt="bouslama-hamza" /></p>
-
 
 ### 📫 How to Reach Me
 - **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
@@ -37,4 +33,15 @@
 ### 🎯 Fun Facts
 - I love reading and drawing in my free time.
 - Passionate about technology, AI, and data science.
+
+<hr>
+
+## 📈 GitHub Stats
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=LAAOUAFIFATIHA
+&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="LAAOUAFIFATIHA
+" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAAOUAFIFATIHA
+&layout=compact&theme=radical&hide_border=true" alt="LAAOUAFIFATIHA
+" /></p>
+
 
