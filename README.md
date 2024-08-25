@@ -34,20 +34,12 @@
 - I love reading and drawing in my free time.
 - Passionate about technology, AI, and data science.
 
-<hr>
-## ✍️Random Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
-<br>
+
 
 
 ## 📈 GitHub Stats
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=LAAOUAFIFATIHA
-&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="LAAOUAFIFATIHA
-" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAAOUAFIFATIHA
-&layout=compact&theme=radical&hide_border=true" alt="LAAOUAFIFATIHA
-" /></p>
-
+<div align="center">
+<img alt="LAAOUAFIFATIHA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LAAOUAFIFATIHA&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAAOUAFIFATIHA&layout=compact&&langs_count=8"/>
+</div>
 
