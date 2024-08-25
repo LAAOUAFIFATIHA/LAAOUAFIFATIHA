@@ -35,6 +35,12 @@
 - Passionate about technology, AI, and data science.
 
 <hr>
+## ✍️Random Dev Quote
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
+<br>
+
 
 ## 📈 GitHub Stats
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=LAAOUAFIFATIHA
