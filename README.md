@@ -29,7 +29,7 @@
 			<td><code><img width="50" src="firabase.png" alt="firabase" title="firabase"/></code></td>
 			<td><code><img width="50" src="sql.jpg" alt="sql" title="sql"/></code></td>
 			<td><code><img width="50" src="Android.png" alt="Android" title="Android"/></code></td>
-			<td><code><img width="50" src="[Android.png](https://cdn-icons-png.flaticon.com/128/5968/5968332.png)" alt="Android" title="Android"/></code></td>
+			<td><code><img width="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="php" title="php"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
