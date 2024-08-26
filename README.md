@@ -1,5 +1,5 @@
 # Hi there, I'm Fatiha LAAOUAFI 👋 I am a data scientist .
-<img src="image.png"></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiiBG5sF21OZLPM2OJ1xA4rmg_s4i2gHPrQ&s"></img>
 ### 🌐 Find Me Around the Web
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
 - **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
