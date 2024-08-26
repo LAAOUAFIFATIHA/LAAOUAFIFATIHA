@@ -6,7 +6,7 @@
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
 
 
-###  What I'm Learning
+###  What 
 - Flutter & Firebase
 - Python .
 - Machine Learning
