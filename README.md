@@ -8,6 +8,7 @@
 - **Email1:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
 - **Email2:** <a href="f.laaouafi5125@uca.ac.ma"> f.laaouafi5125@uca.ac.ma </a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
+- **phone:** <a href="0679807906">0679807906</a>
 
 
 ###  What I'm Learning
