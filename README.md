@@ -58,11 +58,7 @@
 -  <a href="https://github.com/LAAOUAFIFATIHA/flutter_PickSchool_app">flutter_PickSchool_app</a>
 
 
-## 📈 GitHub Stats
-<div align="center">
-<img alt="LAAOUAFIFATIHA's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LAAOUAFIFATIHA&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAAOUAFIFATIHA&layout=compact&&langs_count=8"/>
-</div>
+
 
 
 
