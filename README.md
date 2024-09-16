@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/LAAOUAFIFATIHA?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=LAAOUAFIFATIHA&label=Profile%20views&color=0e75b6&style=plastic" alt="LAAOUAFIFATIHA github" width="110px" /> 
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/)]
+[![LinkedIn][linkedin-shield]][(https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/)]
 
 
 
