@@ -5,9 +5,6 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]:https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
-
 <img src="image.png"></img>
 ### who am i ? 
 - backend developer using Flutter and Python
@@ -76,3 +73,8 @@
 
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]:https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
