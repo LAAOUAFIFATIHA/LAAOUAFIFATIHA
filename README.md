@@ -3,6 +3,9 @@
 ![GitHub followers]([https://img.shields.io/github/followers/Fatiha_Laaouafi
 ?label=Follow&style=social](https://github.com/LAAOUAFIFATIHA?tab=followers))
 
+
+![GitHub followers](https://img.shields.io/github/followers/bouslama-hamza?label=Follow&style=social)
+
 <img src="image.png"></img>
 ### who am i ? 
 - backend developer using Flutter and Python
