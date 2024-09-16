@@ -1,6 +1,6 @@
 # Hi there, I'm Fatiha LAAOUAFI 👋 I am a data scientist .
 
-![GitHub followers](https://img.shields.io/github/followers/LAAOUAFIFATIHA
+![GitHub followers](https://img.shields.io/github/followers/Fatiha_Laaouafi
 ?label=Follow&style=social)
 
 <img src="image.png"></img>
