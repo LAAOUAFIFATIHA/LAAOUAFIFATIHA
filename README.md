@@ -4,6 +4,8 @@
 <img src="https://komarev.com/ghpvc/?username=LAAOUAFIFATIHA&label=Profile%20views&color=0e75b6&style=plastic" alt="LAAOUAFIFATIHA github" width="110px" /> 
 [![LinkedIn][linkedin-shield]][(https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/)]
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[linkedin-url]:https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 
