@@ -1,4 +1,8 @@
 # Hi there, I'm Fatiha LAAOUAFI 👋 I am a data scientist .
+
+![GitHub followers](https://img.shields.io/github/followers/LAAOUAFIFATIHA
+?label=Follow&style=social)
+
 <img src="image.png"></img>
 ### who am i ? 
 - backend developer using Flutter and Python
