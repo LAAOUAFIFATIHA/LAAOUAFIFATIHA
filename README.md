@@ -9,7 +9,7 @@
 ### who am i ? 
 - backend developer using Flutter and Python
 - student in the Higher School of Technologies in Essaouira studying <strong> data science </strong>
-- certificated by oracle
+- certificated by oracle AI foundation 
 ### 🌐 Find Me Around the Web
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
 - **Email1:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
