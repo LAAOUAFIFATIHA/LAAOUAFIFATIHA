@@ -53,7 +53,7 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
 			<td><code><img width="50" src="https://miro.medium.com/v2/resize:fit:1400/1*5Hnnv0awfSv0BGcq1C522w.png" alt="PhpMyAdmin" title="PhpMyAdmin"/></code></td>
 	</tr>
-	<tr>
+	<tr> 
 </tr>
 </table>
 </div>
