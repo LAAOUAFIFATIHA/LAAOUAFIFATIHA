@@ -39,7 +39,7 @@
 			<td><code><img width="50" src="flask.png" alt="flask" title="flask"/></code></td>
 			<td><code><img width="50" src="firabase.png" alt="firabase" title="firabase"/></code></td>
 			<td><code><img width="50" src="https://cdn-icons-png.flaticon.com/128/7506/7506880.png" alt="sql" title="sql"/></code></td>
-			<td><code><img width="50" src="Android.png" alt="Android" title="Android"/></code></td>
+			<td><code><img width="50" src="Andoid.png" alt="Android" title="Android"/></code></td>
 			<td><code><img width="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="php" title="php"/></code></td>
 		</tr>
 		<tr>
