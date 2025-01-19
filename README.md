@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=LAAOUAFIFATIHA&label=Profile%20views&color=0e75b6&style=plastic" alt="LAAOUAFIFATIHA github" width="105px" /> 
  
 <img src="image.png"></img>
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ### who am i ? 
 - backend developer using Flutter and Python
 - student in the Higher School of Technologies in Essaouira studying <strong> data science </strong>
@@ -14,7 +14,7 @@
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
 - **Email1:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
 - **Email2:** <a href="f.laaouafi5125@uca.ac.ma"> f.laaouafi5125@uca.ac.ma </a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a> [![LinkedIn][linkedin-shield]][linkedin-url]
 - **phone:** 0679807906
 
 
