@@ -1,12 +1,12 @@
 
-## Hi there  <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub"> <br>I'm Fatiha LAAOUAFI 👋 a data scientist.
+## Hi there  <br>I'm Fatiha LAAOUAFI 👋 a data scientist.
 
 ![GitHub followers](https://img.shields.io/github/followers/LAAOUAFIFATIHA?label=Follow&style=social) 
 <img src="https://komarev.com/ghpvc/?username=LAAOUAFIFATIHA&label=Profile%20views&color=0e75b6&style=plastic" alt="LAAOUAFIFATIHA github" width="105px" /> 
  
 <img src="image.png"></img>
 
-### who am i ? 
+### who am i ? <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub"> 
 - backend developer using Flutter and Python
 - student in the Higher School of Technologies in Essaouira studying <strong> data science </strong>
 - certificated by oracle AI foundation 
