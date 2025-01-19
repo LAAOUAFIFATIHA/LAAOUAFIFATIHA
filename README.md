@@ -14,7 +14,7 @@
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
 - **Email1:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
 - **Email2:** <a href="f.laaouafi5125@uca.ac.ma"> f.laaouafi5125@uca.ac.ma </a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a> [![LinkedIn][linkedin-shield]][linkedin-url]
+- **LinkedIn:** [![LinkedIn][linkedin-shield]][linkedin-url]
 - **phone:** 0679807906
 
 
