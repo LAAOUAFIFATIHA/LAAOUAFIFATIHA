@@ -19,8 +19,7 @@
 
 
 ###  What I'm Learning
-- Flutter & Firebase
-- Python .
+- data maining 
 - Machine Learning
 
 ###  Technologies & Tools
