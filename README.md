@@ -58,9 +58,9 @@
 <td><code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxNxoOiahaVIVpz6ZzbPdAANgtLZ_AqL235Q&s" alt="Oracle" title="Oracle"/></code></td>
 			<td><code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW8tJ7lmNFa3yvNLGadpoOpxg0EfOOfoGRm_2QkLNvGMvJcCQmebRh-P7RH6AjytRC7g&usqp=CAU" alt="mongodb" title="mongodb"/></code></td>
 			<td><code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuVBCxLpZ_cg7a7CogqY9RvFQ5uGXqRglFA&s" alt="java" title="java"/></code></td>
-			<td><code><img width="50" src="https://img.icons8.com/fluent/600/anaconda--v2.png" alt="MySQL" title="MySQL"/></code></td>
+			<td><code><img width="50" src="https://img.icons8.com/fluent/600/anaconda--v2.png" alt="anaconda" title="anaconda"/></code></td>
 			<td><code><img width="50" src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="sisco Packet pracer" title="Cisco-Packet-Tracer"/></code></td>
-			<td><code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuVBCxLpZ_cg7a7CogqY9RvFQ5uGXqRglFA&s" alt="PhpMyAdmin" title="PhpMyAdmin"/></code></td>
+			<td><code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuVBCxLpZ_cg7a7CogqY9RvFQ5uGXqRglFA&s" alt="Docker" title="Docker"/></code></td>
 	
 
 
