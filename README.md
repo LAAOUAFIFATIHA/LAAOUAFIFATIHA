@@ -7,7 +7,7 @@
 <img src="image.png"></img>
 
 ### who am i ? <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub"> 
-- backend developer using Flutter and Python
+- backend developer using Flutter and Python  
 - student in the Higher School of Technologies in Essaouira studying <strong> data science </strong>
 - certificated by oracle AI foundation 
 ### 🌐 Find Me Around the Web
