@@ -1,5 +1,5 @@
  
-## Hi there  <br>I'm Fatiha LAAOUAFI 👋 a data scientist and Cybersecurity Student.
+## Hi there  <br>I'm Fatiha LAAOUAFI 👋 a Data Scientist and Cybersecurity Student.
 
 ![GitHub followers](https://img.shields.io/github/followers/LAAOUAFIFATIHA?label=Follow&style=social) 
 <img src="https://komarev.com/ghpvc/?username=LAAOUAFIFATIHA&label=Profile%20views&color=0e75b6&style=plastic" alt="LAAOUAFIFATIHA github" width="105px" /> 
